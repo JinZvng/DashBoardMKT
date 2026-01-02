@@ -1,4 +1,4 @@
-<img width="1340" height="406" alt="image" src="https://github.com/user-attachments/assets/3816885e-4c41-4f20-940b-636038db4396" />### 📊 Dashboard de Control y Gestión (KPIs)
+### 📊 Dashboard de Control y Gestión (KPIs)
 El sistema integra un panel de inteligencia de negocios para la supervisión de Postventa:
 
 
