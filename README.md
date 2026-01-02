@@ -50,5 +50,5 @@ El sistema integra un panel de inteligencia de negocios para la supervisión de 
     * **Foro:** Puede el técnico solicitar ayuda por foro a demás técnicos de Makita Chile vía tipo Chat General, donde cada uno podrá dar informacion y revisar las noticias que Jefatura entregue.
       <img width="1322" height="559" alt="image" src="https://github.com/user-attachments/assets/ed1e3405-34cb-4e7d-8026-e1cad8144a9d" />
 
-    * **Mis Niveles:** Se realizó este menú en base a "Experiencia de usuario" para mejorar su perfil, cambiar color de fondo, mejorar imagenes y mostrar una **Tarjeta de técnico** que pueden los demás usuarios revisar esta informacion
+    * **Mis Niveles:** Se realizó este menú en base a "Experiencia de usuario" para mejorar su perfil, cambiar color de fondo, mejorar imagenes y mostrar una **Tarjeta de técnico** que pueden los demás usuarios revisar esta informacion, esto con fines de que técnico igual pueda tener un "reconocimiento", se planea implementar "logros" por herramientas y tiempos.
       <img width="1069" height="708" alt="image" src="https://github.com/user-attachments/assets/0a8413cb-8340-4f99-bea9-7576355d4f37" />
